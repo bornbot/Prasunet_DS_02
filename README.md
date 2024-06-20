@@ -30,7 +30,7 @@ cd <repository-directory>
 ```
 Install the required Python libraries:
 
-```bash
+```gitbash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 ### Running the Project
@@ -66,7 +66,7 @@ The training dataset used to build and train the predictive model. It includes f
 This project aims to build a robust predictive model for Titanic survival prediction using machine learning techniques. By following the steps outlined in the Jupyter Notebook, you can replicate the analysis and model building process. Feel free to explore, modify, and improve the code to enhance the model's performance.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - The Titanic dataset is provided by Kaggle as part of their Titanic Machine Learning from Disaster competition.
